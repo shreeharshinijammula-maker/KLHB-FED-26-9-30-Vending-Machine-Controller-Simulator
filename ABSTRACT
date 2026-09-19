@@ -1,0 +1,11 @@
+## Abstract
+
+The **Vending Machine Controller Simulator** is a software-based simulation of a vending machine that allows users to select products, insert money, 
+check the inserted amount,and receive the selected product and change. The project demonstrates how a vending machine can be controlled using programming 
+logic and finite-state-machine concepts.
+
+The simulator handles different operations such as product selection, payment validation, balance calculation, product dispensing, and transaction completion. 
+It also manages situations such as insufficient payment, invalid selections, and unavailable products.
+
+The main objective of this project is to understand how real-world systems can be modeled and implemented using programming concepts, control logic, and 
+state transitions.
