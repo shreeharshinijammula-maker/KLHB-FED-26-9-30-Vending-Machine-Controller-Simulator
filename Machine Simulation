@@ -1,0 +1,30 @@
+# Vending Machine Simulation
+
+This project is a code-based simulation of a real-world automatic vending machine. It handles user interactions, financial transactions, inventory checks, and product dispensing.
+
+## How It Works
+
+The core logic of the program follows these step-by-step phases:
+
+1.  Initialization & Setup:-
+   * The program initializes a built-in menu containing available items, their respective prices, and the current stock levels (inventory).
+
+2.  Money Insertion (Input):-
+   * The user is prompted to input money or deposit a balance into the system before making a selection.
+
+3.  Product Selection:-
+   * The user selects a desired product by entering an item name or a specific code (e.g., A1, B2).
+   * **Validation check:** The system instantly verifies if the item exists and checks if it is currently in stock.
+
+4.  Payment Verification:-
+   * The machine compares the user's deposited balance against the price of the selected item.
+   * If the balance is **insufficient**, it prompts the user to insert more money or cancels the transaction.
+   * If the balance is **sufficient**, it approves the transaction.
+
+5.  Dispensing & Inventory Update:-
+   * The system reduces the stock count of the purchased item by 1.
+   * It logically "dispenses" the item to the user.
+
+6.  Change Calculation (Output):-
+   * The system calculates the remaining balance (`Change = Inserted Money - Item Price`).
+   * It returns the exact change to the user and resets the session for the next transaction.
