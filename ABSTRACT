@@ -2,7 +2,7 @@ PROJECT TITLE: Vending Machine Controller Simulator
 Supervisor: RAKESH K
 Team members: Harshini - 2620040066, Mahima - 2620030076
 
-## Abstract
+## Abstract:-
 
 The **Vending Machine Controller Simulator** is a software-based simulation of a vending machine that allows users to select products, insert money, 
 check the inserted amount,and receive the selected product and change. The project demonstrates how a vending machine can be controlled using programming 
