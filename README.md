@@ -1,3 +1,25 @@
 # KLHB-FED-26-9-30-Vending Machine Controller Simulator
-  Team:- Harshini - 2620040066, Mahima.B - 2620030076
 
+## Team Members
+* **Harshini** - 2620040066
+* **Mahima B** - 2620030076
+
+## Supervisor
+* **Rakesh.K**
+
+## Abstract
+PROJECT TITLE: Vending Machine Controller Simulator
+Supervisor: RAKESH K
+Team members: Harshini - 2620040066, Mahima - 2620030076
+
+## Abstract:-
+
+The **Vending Machine Controller Simulator** is a software-based simulation of a vending machine that allows users to select products, insert money, 
+check the inserted amount,and receive the selected product and change. The project demonstrates how a vending machine can be controlled using programming 
+logic and finite-state-machine concepts.
+
+The simulator handles different operations such as product selection, payment validation, balance calculation, product dispensing, and transaction completion. 
+It also manages situations such as insufficient payment, invalid selections, and unavailable products.
+
+The main objective of this project is to understand how real-world systems can be modeled and implemented using programming concepts, control logic, and 
+state transitions.
